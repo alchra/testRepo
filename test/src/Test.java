@@ -11,5 +11,8 @@ public class Test {
 		System.out.println("Ahoi World!");
 		System.out.println("Ahoi World!");
 		System.out.println("Ahoi World!");
+		System.out.println("now it works ?!?");
+		System.out.println("now it works ?!?");
+		System.out.println("now it works ?!?");
 	}
 }
