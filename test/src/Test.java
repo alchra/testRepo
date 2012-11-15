@@ -8,5 +8,8 @@ public class Test {
 		System.out.println("Bye World!");
 		System.out.println("Bye World!");
 		System.out.println("Bye World!");
+		System.out.println("Ahoi World!");
+		System.out.println("Ahoi World!");
+		System.out.println("Ahoi World!");
 	}
 }
