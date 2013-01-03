@@ -14,5 +14,6 @@ public class Test {
 		System.out.println("now it works ?!?");
 		System.out.println("now it works ?!?");
 		System.out.println("now it works ?!?");
+		int miep;
 	}
 }
